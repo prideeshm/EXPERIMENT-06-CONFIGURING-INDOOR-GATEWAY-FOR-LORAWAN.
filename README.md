@@ -1,4 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## NAME : PRIDEESH M
+## REG NO : 212223040154
 
 ## Aim: 
 
@@ -119,7 +121,9 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![iot 6 exp photo](https://github.com/user-attachments/assets/5fc5f915-bc51-436b-a56b-6da800d3b397)
 
+![iot 6 exp 1 photo](https://github.com/user-attachments/assets/11a1b7fe-7ac0-40e7-a218-0325fbb566b5)
 
 
 
